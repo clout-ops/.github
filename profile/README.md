@@ -1,3 +1,7 @@
+---
+testing: does this show up?
+---
+
 ## We're about to change everything! 
 
 **Here are some ideas to get you started:**
