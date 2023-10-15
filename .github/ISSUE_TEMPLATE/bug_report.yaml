@@ -28,7 +28,7 @@ body:
     attributes:
       label: Steps To Reproduce
       description: Steps to reproduce the behavior.
-      placeholder: |
+      value: |
         1. Go to the home page...
         1. Click on **This Button**...
         1. Type '...'
