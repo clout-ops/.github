@@ -1,3 +1,5 @@
+![CloutOps](./cloutops-logo.png)
+
 # CloutOps
 
 Sample readme for re-use. Copy & paste and go from there[^1]. <!-- Notice the ref, this should display as a ref on github -->
